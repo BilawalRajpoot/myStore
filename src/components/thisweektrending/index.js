@@ -34,8 +34,8 @@ const ThisWeekTrending = () => {
             }}
             modules={[Navigation, Pagination]}
           >
-            {Productdata.map((b) => (
-              <SwiperSlide key={b.productid} className='bg-transparent'>
+            {Productdata.map((b , index) => (
+              <SwiperSlide key={index} className='bg-transparent'>
                 <Reusecard
                   border="mt-5 border-none hover:text-[#161880]"
                   image={b.productimage}
