@@ -51,7 +51,7 @@ import Toptablet3 from "../../../public/toptab3.png"
 
 import Toptablet4 from "../../../public/toptab4.png"
 import Toptablet5 from "../../../public/toptab5.png"
-import Toptablet6 from "../../../public/TopTab6.png"
+import Toptablet6 from "../../../public/toptab6.png"
 import Toptablet7 from "../../../public/TopTab7.webp"
 import Toptablet8 from "../../../public/TopTab8.webp"
 import Toptablet9 from "../../../public/TopTab9.webp"
